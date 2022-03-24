@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://media2.giphy.com/media/6FT3QE3AJMfwJDZBNr/giphy.gif?cid=790b76112d4859e05a0d3acf6ef113c36756c646598a40ce&rid=giphy.gif&ct=s" width="250"/>
+</div>
+
 <!--
 **arnauqb/arnauqb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
