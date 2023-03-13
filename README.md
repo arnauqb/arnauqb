@@ -1,20 +1,13 @@
-### Hi there 👋
+### Hi, I'm Arnau 👋
 
-<div id="header" align="center">
-  <img src="https://media2.giphy.com/media/6FT3QE3AJMfwJDZBNr/giphy.gif?cid=790b76112d4859e05a0d3acf6ef113c36756c646598a40ce&rid=giphy.gif&ct=s" width="250"/>
-</div>
+I'm a postdoctoral researcher at Oxford University. I hold a PhD in Astrophysics. My interests are mostly in new computational methods to do cool science in as many fields as possible.
 
-<!--
-**arnauqb/arnauqb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on building improving the design and calibration of agent-based models.
+- 🌱 I’m currently learning lots of Bayesian stuff.
+- 📫 How to reach me: arnau.quera-bofarull at cs.ox.ac.uk
+- 😄 Pronouns: he / him / his
+- ⚡ Fun fact: Saturn's rings formed when the dinosaurs were alive!
+- 💬 Ask me about Julia :)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Arnau's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnauqb)](https://github.com/anuraghazra/github-readme-stats)
