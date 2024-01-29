@@ -1,13 +1,10 @@
 ### Hi, I'm Arnau 👋
 
-I'm a postdoctoral researcher at Oxford University. I hold a PhD in Astrophysics. My interests are mostly in new computational methods to do cool science in as many fields as possible.
+I'm a postdoctoral researcher at Oxford University. Currently, interested in applying AI to improve how we simulate physical and social systems. Checkout my latest research and publications on my personal website (www.arnau.ai).
 
-- 🔭 I’m currently working on improving the design and calibration of agent-based models.
-- 🌱 I’m currently learning lots of Bayesian stuff.
-- 📫 How to reach me: arnau.quera-bofarull at cs.ox.ac.uk
-- 😄 Pronouns: he / him / his
-- ⚡ Fun fact: Saturn's rings formed when the dinosaurs were alive!
-- 💬 Ask me about Julia :)
+- 🐧 Checkout my latest software package to calibrate differentiable simulators, with specific emphasis on variational inference for differentiable agent-based models [code](https://github.com/arnauqb/blackbirds) [paper](https://joss.theoj.org/papers/10.21105/joss.05776)
+- :bug:I've worked a lot on epidemiological differentiable simulators. I am a core developer of [JUNE](https://github.com/IDAS-Durham/JUNE) and I have recently developed a [differentiable implementation](github.com/arnauqb/gradabm-june).
+- ⭐I love the Julia programming language and I have used it to implement a [simulator of black-hole outflows with radiation transfer](github.com/arnauqb/Qwind.jl).
 
 
 [![Arnau's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnauqb)](https://github.com/anuraghazra/github-readme-stats)
